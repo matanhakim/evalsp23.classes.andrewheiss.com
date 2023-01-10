@@ -585,7 +585,7 @@ class: title title-3
 
 ---
 
-# How does we know if **X** causes **Y**?
+# How do we know if **X** causes **Y**?
 
 --
 
